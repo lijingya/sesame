@@ -8,7 +8,8 @@ Authors@R: c(person("Wanding", "Zhou", role = c("aut","cre"),
              person("Hui", "Shen", role = c("aut"),
              email = "Hui.Shen@vai.org"),
              person("Timothy", "Triche", role = "ctb"))
-Depends:  R (>= 3.3)
+Depends:  R (>= 3.3),
+methods
 License: Artistic-2.0
 LazyData: TRUE
 RoxygenNote: 6.0.1
